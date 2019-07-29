@@ -1,2 +1,2 @@
-# Project-1
-Machine learning course Project 1
+# ML-Project1
+For files related to project 1 on classification
